@@ -1,0 +1,15 @@
+{
+  "name": "imagelite-pengolah-gambar",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite",
+    "test": "node --test tests/js/*.test.js",
+    "test:browser": "node tests/browser/server.js"
+  },
+  "devDependencies": {
+    "laravel-vite-plugin": "^3.1",
+    "vite": "^8.0.0"
+  }
+}

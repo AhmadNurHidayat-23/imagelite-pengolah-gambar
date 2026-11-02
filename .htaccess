@@ -1,0 +1,3 @@
+Options -Indexes
+# Seluruh source Laravel dilindungi; akses web hanya melalui public.
+Require all denied
